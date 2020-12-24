@@ -1,3 +1,4 @@
 first line
 new feature line
 yet another line
+last insert
