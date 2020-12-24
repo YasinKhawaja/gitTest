@@ -1,2 +1,8 @@
 first line
-second line 
+<<<<<<< HEAD
+second line
+=======
+new feature line
+yet another line
+last insert
+>>>>>>> new_features
